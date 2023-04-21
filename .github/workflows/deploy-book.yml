@@ -35,6 +35,7 @@ jobs:
     # Build the book
     - name: Build the book
       run: |
+        cd book
         jupyter-book build .
 
     # Push the book's HTML to github-pages
@@ -42,4 +43,4 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3.9.3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./_build/html
+        publish_dir: ./book/_build/html
