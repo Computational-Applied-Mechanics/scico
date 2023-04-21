@@ -1,0 +1,26 @@
+title: ""
+author: ""
+logo: ""
+description: ""
+
+html:
+  baseurl: https://computational-applied-mechanics.github.io/scico
+  home_page_in_navbar: false
+  use_edit_page_button: true
+  use_issues_button: true
+  use_repository_button: true
+  extra_footer: |
+    <p>
+      <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg" height="31"/> | Contact: <a href="https://baumechanik.uni-wuppertal.de">CAM@BUW</a><br>
+      Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+    </p>
+  extra_navbar: ""
+
+sphinx:
+  config:
+    html_show_copyright : false
+    
+repository:
+  url: https://github.com/Computational-Applied-Mechanics/scico
+  branch: main
+  path_to_book: book
