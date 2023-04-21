@@ -2,15 +2,16 @@ format: jb-book
 
 root: README.md
 parts:
-  - caption: Computational Applied Mechanics
+  - caption: CAM
     chapters:
       - file: cam/README.md
 
   - caption: Lecture
     chapters:
+      - file: lecture/README.md
       - file: lecture/test.ipynb
-      - file: lecture/linking.md
 
   - caption: Exercise
     chapters:
-      - file: exercise/test.md
+      - file: exercise/README.md
+      - file: exercise/ex03.ipynb
