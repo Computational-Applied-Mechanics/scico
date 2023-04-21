@@ -1,4 +1,16 @@
 format: jb-book
-root: README
-chapters:
-  - file: test.ipynb
+
+root: README.md
+parts:
+- caption: Civil Engineering Mechanics
+  chapters:
+    - file: cam/README.md
+
+- caption: Lecture
+  chapters:
+    - file: lecture/test.ipynb
+    - file: lecture/linking.md
+
+- caption: Exercise
+  chapters:
+    - file: exercise/test.md
