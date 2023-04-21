@@ -1,6 +1,6 @@
-# Test
+# Introduction
 
-[../lecture/linking](../lecture/linking.md)
+[../lecture/README](../lecture/README.md)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pharetra magna ac placerat vestibulum lectus. Fringilla urna porttitor rhoncus dolor purus non enim praesent. Blandit libero volutpat sed cras ornare arcu dui vivamus. Purus viverra accumsan in nisl nisi scelerisque eu ultrices. Mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Tellus id interdum velit laoreet. Erat imperdiet sed euismod nisi porta lorem mollis aliquam. Faucibus interdum posuere lorem ipsum dolor sit amet consectetur. Amet tellus cras adipiscing enim. Nisi lacus sed viverra tellus in hac habitasse.
 

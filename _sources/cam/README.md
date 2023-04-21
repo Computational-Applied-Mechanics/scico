@@ -1,4 +1,4 @@
-# CAM
+# Computational Applied Mechanics
 
 placeholder
 
